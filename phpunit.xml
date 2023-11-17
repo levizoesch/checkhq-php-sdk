@@ -10,9 +10,7 @@
          backupStaticProperties="false">
   <testsuites>
     <testsuite name="Tests">
-      <file>tests/TellerClientTest.php</file>
-      <file>tests/TellerSDKServiceProviderTest.php</file>
-      <file>tests/TellerEnvironmentTypesTest.php</file>
+      <file>tests/CheckHQServiceProviderTest.php</file>
     </testsuite>
   </testsuites>
   <coverage>
