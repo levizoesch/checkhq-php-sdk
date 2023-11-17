@@ -13,6 +13,6 @@ class CheckHQServiceProviderTest extends BaseTest
     public function testCheckHQServiceProviderIsRegistered()
     {
         $this->assertTrue($this->app->getProvider(CheckHQServiceProvider::class) instanceof CheckHQServiceProvider);
-        $this->assertFileExists('config/teller.php');
+        $this->assertFileExists('config/checkhq.php');
     }
 }
