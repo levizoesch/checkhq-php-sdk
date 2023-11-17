@@ -6,6 +6,8 @@ There wasn't much online that I could find, so I'll need to implement my own.
 
 This is an unofficial, open source PHP SDK to interact with CheckHQ.com on the Laravel framework, or PHP project.
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/levizoesch/checkhq-php-sdk.svg?style=flat-square)](https://packagist.org/packages/levizoesch/checkhq-php-sdk)
+[![Total Downloads](https://img.shields.io/packagist/dt/levizoesch/checkhq-php-sdk.svg?style=flat-square)](https://packagist.org/packages/levizoesch/checkhq-php-sdk)
 [![License](https://img.shields.io/github/license/levizoesch/teller-sdk.svg?style=flat-square)](https://packagist.org/packages/levizoesch/teller-sdk)
 ---
 
